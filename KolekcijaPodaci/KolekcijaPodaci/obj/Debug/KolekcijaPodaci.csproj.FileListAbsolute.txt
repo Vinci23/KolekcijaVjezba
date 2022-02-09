@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\KolekcijaPodaci\KolekcijaPodaci\obj\Debug\KolekcijaPodaci.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\KolekcijaPodaci\KolekcijaPodaci\obj\Debug\KolekcijaPodaci.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\KolekcijaPodaci\KolekcijaPodaci\obj\Debug\KolekcijaPodaci.Form1.resources
+C:\Users\PC\source\repos\KolekcijaPodaci\KolekcijaPodaci\obj\Debug\KolekcijaPodaci.Properties.Resources.resources
+C:\Users\PC\source\repos\KolekcijaPodaci\KolekcijaPodaci\obj\Debug\KolekcijaPodaci.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\KolekcijaPodaci\KolekcijaPodaci\obj\Debug\KolekcijaPodaci.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\KolekcijaPodaci\KolekcijaPodaci\bin\Debug\KolekcijaPodaci.exe.config
+C:\Users\PC\source\repos\KolekcijaPodaci\KolekcijaPodaci\bin\Debug\KolekcijaPodaci.exe
+C:\Users\PC\source\repos\KolekcijaPodaci\KolekcijaPodaci\bin\Debug\KolekcijaPodaci.pdb
+C:\Users\PC\source\repos\KolekcijaPodaci\KolekcijaPodaci\obj\Debug\KolekcijaPodaci.exe
+C:\Users\PC\source\repos\KolekcijaPodaci\KolekcijaPodaci\obj\Debug\KolekcijaPodaci.pdb
